@@ -1,0 +1,18 @@
+.display-4{
+	font-family: 'Pacifico', cursive;
+	/*color: "red" ;*/
+	/*font-weight: bolder;*/
+}
+
+.container{
+
+	margin-top: 20% ;
+}
+
+body{
+	background-image: url('bkg2.jpg') ;
+	background-size: 50% 50%;
+	height: 100% ;
+	/*background-repeat: no-repeat;*/
+	width: 100% ;
+}

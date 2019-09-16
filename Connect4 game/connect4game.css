@@ -1,0 +1,17 @@
+body{
+	background-image: url('bkg1.jpg') ;
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	color : orange ;
+	text-align: center;
+	font-size: 5em ;
+	text-decoration-line: underline;
+    text-decoration-style: double ;
+}
+
+table{
+	border : 5px solid yellow ;
+}
+
